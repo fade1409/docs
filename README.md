@@ -1,15 +1,5 @@
 # GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
-
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
-
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
-
-Use the table of contents icon <img alt="Table of contents icon" src="./contributing/images/table-of-contents.png" width="25" height="25" /> on the top right corner of this document to navigate to a specific section quickly.
-
-## Contributing
-
-We accept different types of contributions, including some that don't require you to write a single line of code. For detailed instructions on how to get started with our project, see "[About contributing to GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs)."
+[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)Askfm
 
 ### Ways to contribute
 
